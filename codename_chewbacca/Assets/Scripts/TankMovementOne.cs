@@ -2,7 +2,7 @@
 using System.Collections;
 using JetBrains.Annotations;
 
-public class TankMovementOne : MonoBehaviour {
+public class TankMovementOne {
     public CharacterController tankMove;
     public Transform bla;
     public float predkoscPoruszania = 500.0f;

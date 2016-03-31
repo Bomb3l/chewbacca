@@ -18,3 +18,4 @@ C:\Users\dynio_000\Desktop\Studia\Sem. VI\Zarządzanie projektami inf\chewbacca\
 C:\Users\dynio_000\Desktop\Studia\Sem. VI\Zarządzanie projektami inf\chewbacca\codename_chewbacca\Temp\bin\Debug\UnityEngine.Networking.xml
 C:\Users\dynio_000\Desktop\Studia\Sem. VI\Zarządzanie projektami inf\chewbacca\codename_chewbacca\obj\Debug\Assembly-CSharp.dll
 C:\Users\dynio_000\Desktop\Studia\Sem. VI\Zarządzanie projektami inf\chewbacca\codename_chewbacca\obj\Debug\Assembly-CSharp.pdb
+C:\Users\dynio_000\Desktop\Studia\Sem. VI\Zarządzanie projektami inf\chewbacca\codename_chewbacca\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

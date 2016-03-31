@@ -4,14 +4,14 @@ using System.Collections;
 public class Tank : MonoBehaviour {
      CharacterController tankRuch;
      Transform bla;
-     TankMovement ruch;
+     TankMovementOne ruch;
      Ekwipunek nowy = new Ekwipunek();
   
 
 	void Start () {
         tankRuch = GetComponent<CharacterController>();
 	    bla = GetComponent<Transform>();
-        ruch = new TankMovement(tankRuch,bla);
+        ruch = new TankMovementOne(tankRuch,bla);
     
 	}
 
